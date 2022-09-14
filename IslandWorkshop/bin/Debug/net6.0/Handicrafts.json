@@ -1,0 +1,303 @@
+[
+  {
+    "Name": "Isleworks Necklace",
+    "Time": 4,
+    "Category": [ "Accessories", "Woodworks" ],
+    "BaseValue": 33
+  },
+  {
+    "Name": "Isleworks Grilled Clam",
+    "Time": 4,
+    "Category": [ "Foodstuffs", "Marine Merchandise" ],
+    "BaseValue": 33
+  },
+  {
+    "Name": "Isleworks Potion",
+    "Time": 4,
+    "Category": [ "Concoctions" ],
+    "BaseValue": 33
+  },
+  {
+    "Name": "Isleworks Firesand",
+    "Time": 4,
+    "Category": [ "Concoctions", "Unburied Treasures" ],
+    "BaseValue": 33
+  },
+  {
+    "Name": "Isleworks Squid Ink",
+    "Time": 4,
+    "Category": [ "Ingredients", "Marine Merchandise" ],
+    "BaseValue": 43
+  },
+  {
+    "Name": "Isleworks Rope",
+    "Time": 4,
+    "Category": [ "Sundries", "Textiles" ],
+    "BaseValue": 43
+  },
+  {
+    "Name": "Isleworks Sauerkraut",
+    "Time": 4,
+    "Category": [ "Preserved Food" ],
+    "BaseValue": 48
+  },
+  {
+    "Name": "Isleworks Baked Pumpkin",
+    "Time": 4,
+    "Category": [ "Foodstuffs" ],
+    "BaseValue": 48
+  },
+  {
+    "Name": "Isleworks Macuahuitl",
+    "Time": 6,
+    "Category": [ "Arms", "Woodworks" ],
+    "BaseValue": 50
+  },
+  {
+    "Name": "Isleworks Wooden Chair",
+    "Time": 6,
+    "Category": [ "Furnishings", "Woodworks" ],
+    "BaseValue": 50
+  },
+  {
+    "Name": "Isleworks Barbut",
+    "Time": 6,
+    "Category": [ "Attire", "Metalworks" ],
+    "BaseValue": 50
+  },
+  {
+    "Name": "Isleworks Coral Ring",
+    "Time": 6,
+    "Category": [ "Attire", "Metalworks" ],
+    "BaseValue": 50
+  },
+  {
+    "Name": "Isleworks Butter",
+    "Time": 4,
+    "Category": [ "Ingredients", "Creature Creations" ],
+    "BaseValue": 52
+  },
+  {
+    "Name": "Isleworks Brush",
+    "Time": 4,
+    "Category": [ "Sundries", "Woodworks" ],
+    "BaseValue": 52
+  },
+  {
+    "Name": "Isleworks Culinary Knife",
+    "Time": 4,
+    "Category": [ "Sundries", "Creature Creations" ],
+    "BaseValue": 52
+  },
+  {
+    "Name": "Isleworks Earrings",
+    "Time": 4,
+    "Category": [ "Accessories", "Creature Creations" ],
+    "BaseValue": 52
+  },
+  {
+    "Name": "Isleworks Boiled Egg",
+    "Time": 4,
+    "Category": [ "Foodstuffs", "Creature Creations" ],
+    "BaseValue": 52
+  },
+  {
+    "Name": "Isleworks Brick Counter",
+    "Time": 6,
+    "Category": [ "Furnishings", "Unburied Treasures" ],
+    "BaseValue": 57
+  },
+  {
+    "Name": "Isleworks Parsnip Salad",
+    "Time": 4,
+    "Category": [ "Foodstuffs" ],
+    "BaseValue": 57
+  },
+  {
+    "Name": "Isleworks Corn Flakes",
+    "Time": 4,
+    "Category": [ "Preserved Food" ],
+    "BaseValue": 62
+  },
+  {
+    "Name": "Isleworks Tomato Relish",
+    "Time": 4,
+    "Category": [ "Ingredients" ],
+    "BaseValue": 62
+  },
+  {
+    "Name": "Isleworks Salt Cod",
+    "Time": 6,
+    "Category": [ "Preserved Food", "Marine Merchandise" ],
+    "BaseValue": 64
+  },
+  {
+    "Name": "Isleworks Essential Draught",
+    "Time": 6,
+    "Category": [ "Concoctions", "Marine Merchandise" ],
+    "BaseValue": 64
+  },
+  {
+    "Name": "Isleworks Ribbon",
+    "Time": 6,
+    "Category": [ "Accessories", "Textiles" ],
+    "BaseValue": 64
+  },
+  {
+    "Name": "Bronze Sheep",
+    "Time": 8,
+    "Category": [ "Furnishings", "Metalworks" ],
+    "BaseValue": 76
+  },
+  {
+    "Name": "Isleworks Iron Axe",
+    "Time": 8,
+    "Category": [ "Arms", "Metalworks" ],
+    "BaseValue": 86
+  },
+  {
+    "Name": "Isleworks Quartz Ring",
+    "Time": 8,
+    "Category": [ "Accessories", "Unburied Treasures" ],
+    "BaseValue": 86
+  },
+  {
+    "Name": "Isleworks Hora",
+    "Time": 6,
+    "Category": [ "Arms", "Creature Creations" ],
+    "BaseValue": 86
+  },
+  {
+    "Name": "Isleworks Tunic",
+    "Time": 6,
+    "Category": [ "Attire", "Textiles" ],
+    "BaseValue": 86
+  },
+  {
+    "Name": "Isleworks Porcelain Vase",
+    "Time": 8,
+    "Category": [ "Sundries", "Unburied Treasures" ],
+    "BaseValue": 86
+  },
+  {
+    "Name": "Isleworks Sweet Popoto",
+    "Time": 6,
+    "Category": [ "Confections" ],
+    "BaseValue": 86
+  },
+  {
+    "Name": "Isleworks Vegetable Juice",
+    "Time": 6,
+    "Category": [ "Concoctions" ],
+    "BaseValue": 93
+  },
+  {
+    "Name": "Islefish Pie",
+    "Time": 6,
+    "Category": [ "Confections", "Marine Merchandise" ],
+    "BaseValue": 93
+  },
+  {
+    "Name": "Isleberry Jam",
+    "Time": 6,
+    "Category": [ "Ingredients" ],
+    "BaseValue": 93
+  },
+  {
+    "Name": "Isleworks Onion Soup",
+    "Time": 6,
+    "Category": [ "Foodstuffs" ],
+    "BaseValue": 93
+  },
+  {
+    "Name": "Isleworks Pumpkin Pudding",
+    "Time": 6,
+    "Category": [ "Confections" ],
+    "BaseValue": 93
+  },
+  {
+    "Name": "Isleworks Horn",
+    "Time": 6,
+    "Category": [ "Sundries", "Creature Creations" ],
+    "BaseValue": 97
+  },
+  {
+    "Name": "Isleworks Caramels",
+    "Time": 6,
+    "Category": [ "Confections" ],
+    "BaseValue": 97
+  },
+  {
+    "Name": "Isleworks Cavalier's Hat",
+    "Time": 6,
+    "Category": [ "Attire", "Textiles" ],
+    "BaseValue": 97
+  },
+  {
+
+    "Name": "Isleworks Garden Scythe",
+    "Time": 6,
+    "Category": [ "Sundries", "Metalworks" ],
+    "BaseValue": 108
+  },
+  {
+    "Name": "Isleworks Sheepfluff Rug",
+    "Time": 6,
+    "Category": [ "Furnishings", "Creature Creations" ],
+    "BaseValue": 108
+  },
+  {
+    "Name": "Isleworks Pickled Radish",
+    "Time": 8,
+    "Category": [ "Preserved Food" ],
+    "BaseValue": 124
+  },
+  {
+    "Name": "Isleworks Crook",
+    "Time": 8,
+    "Category": [ "Arms", "Woodworks" ],
+    "BaseValue": 144
+  },
+  {
+    "Name": "Isleworks Scale Fingers",
+    "Time": 8,
+    "Category": [ "Attire", "Creature Creations" ],
+    "BaseValue": 144
+  },
+  {
+    "Name": "Isleworks Bed",
+    "Time": 8,
+    "Category": [ "Furnishings", "Textiles" ],
+    "BaseValue": 144
+  },
+  {
+    "Name": "Isleworks Shark Oil",
+    "Time": 8,
+    "Category": [ "Sundries", "Marine Merchandise" ],
+    "BaseValue": 163
+  },
+  {
+    "Name": "Isleworks Silver Ear Cuffs",
+    "Time": 8,
+    "Category": [ "Accessories", "Metalworks" ],
+    "BaseValue": 163
+  },
+  {
+    "Name": "Isleworks Spruce Round Shield",
+    "Time": 8,
+    "Category": [ "Attire", "Woodworks" ],
+    "BaseValue": 163
+  },
+  {
+    "Name": "Isleworks Garnet Rapier",
+    "Time": 8,
+    "Category": [ "Arms", "Unburied Treasures" ],
+    "BaseValue": 163
+  },
+  {
+    "Name": "Isleworks Growth Formula",
+    "Time": 8,
+    "Category": [ "Concoctions" ],
+    "BaseValue": 163
+  }
+]
